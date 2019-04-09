@@ -1,2 +1,2 @@
 # testChat
-Test Node + Socket.io
+NodeJS + Socket.io
