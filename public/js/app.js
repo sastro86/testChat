@@ -20,7 +20,7 @@ $(function () {
         snd.play();
     }
     
-    let avatar = 'https://bootdey.com/img/Content/avatar/avatar2.png';
+    let avatar = 'img/avatar.png';
 
     /* ====================================================================== */
     $(document).on('click', '#sendName', function () {
